@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.app_service">
+
+    /
+    <application>
+        <service android:name=".EchoService"/>
+    </application>
+</manifest>

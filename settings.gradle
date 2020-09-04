@@ -1,0 +1,3 @@
+include ':app_service'
+include ':app'
+rootProject.name = "Test_App"
